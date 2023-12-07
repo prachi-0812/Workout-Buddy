@@ -1,5 +1,5 @@
 # Workout-Buddy
-Simple websited using MERN Stack
+Simple website using MERN Stack.
 Users can add or delete a new workout. They can also view all the current workouts on the page.
 
 # How to use
